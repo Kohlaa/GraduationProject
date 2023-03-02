@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:graduation_project_test/addParking/signUp/signUpScreen.dart';
+import 'package:graduation_project_test/signUp/signUpScreen.dart';
 
 import 'addParkingComponents/addParkingText.dart';
 

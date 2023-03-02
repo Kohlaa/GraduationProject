@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:graduation_project_test/addParking/signUp/signUpComponents/txt.dart';
-import 'package:graduation_project_test/addParking/signUp/signUpComponents/txtFormFeild.dart';
-import 'package:graduation_project_test/addParking/signUp/signUpScreen2.dart';
+import 'package:graduation_project_test/signUp/signUpComponents/txt.dart';
+import 'package:graduation_project_test/signUp/signUpComponents/txtFormFeild.dart';
+import 'package:graduation_project_test/signUp/signUpScreen2.dart';
 
 class signUp extends StatelessWidget {
   static const String routeName = "singUp-screen";
